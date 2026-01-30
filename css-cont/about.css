@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.head-acc a:hover {
+    color: white;
+    background: black;
+    border-radius: 5px;
+}
+
+header {
+    background-color: rgb(241, 241, 241);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px) and (min-width:318px) {
+    .collapse {
+        position: absolute;
+        z-index: 1000;
+        top: 125%;
+        padding-left: 5%;
+
+
+        background-color: rgb(233, 231, 231);
+        width: 50%;
+        opacity: 0.9;
+    }
+
+
+
+}
