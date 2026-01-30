@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: rgb(241, 241, 241);
+    background-color: white;
 }
 
 
@@ -34,12 +34,12 @@ header {
     .collapse {
         position: absolute;
         z-index: 1000;
-        top: 125%;
+        top: 80%;
+
         padding-left: 5%;
 
-
-        background-color: rgb(233, 231, 231);
-        width: 50%;
+        background-color: white;
+        width: 40%;
         opacity: 0.9;
     }
 
