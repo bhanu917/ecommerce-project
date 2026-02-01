@@ -15,7 +15,9 @@ header {
     background-color: white;
 }
 
-
+main img {
+    max-height: 200px;
+}
 
 
 
