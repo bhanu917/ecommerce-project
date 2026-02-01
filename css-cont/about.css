@@ -44,19 +44,11 @@ header {
 }
 
 
-.abt-img {
-
-    justify-content: center;
-    column-gap: 2%;
-}
-
-.card-body p {
-    padding-left: 30%;
-}
-
 
 
 footer p {
+    margin-top: 4%;
+    margin-bottom: 0;
     padding: 30px 0;
     background-color: rgb(233, 235, 237);
 
