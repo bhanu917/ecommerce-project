@@ -16,13 +16,51 @@ header {
 }
 
 
+.par-text {
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    /* stretches text across the line */
+    text-justify: inter-word;
+    /* distributes spaces between words */
+    line-height: 1.6;
+    /* improves readability */
+    padding: 1rem;
+    /* base font size */
+
+}
+
+/* Responsive adjustments */
+@media (max-width: 1030px) {
+    .par-text .spn {
+        display: none;
+    }
+}
+
+@media (max-width: 520px) {
+    .spn2 {
+        display: none;
+    }
+}
+
+
+.abt-img {
+
+    justify-content: center;
+    column-gap: 2%;
+}
+
+.card-body p {
+    padding-left: 30%;
+}
 
 
 
+footer p {
+    padding: 30px 0;
+    background-color: rgb(233, 235, 237);
 
-
-
-
+}
 
 
 
